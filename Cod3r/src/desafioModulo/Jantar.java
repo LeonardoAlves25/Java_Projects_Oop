@@ -16,7 +16,7 @@ public class Jantar {
 		p1.comer(c);
 		System.out.println();
 		
-		var c2 = new Comida("Abacaixota", 0.4);
+		var c2 = new Comida("abaicaixi", 0.4);
 		
 		c2.formatarDadosC();
 		c2.imprimirDadosC();
