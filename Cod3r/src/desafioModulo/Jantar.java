@@ -32,6 +32,7 @@ public class Jantar {
 		
 		p1.formatarDadosP();
 		p1.imprimirDadosP();
+		
 	}
 }
 //instanciar os metodos no método principal
