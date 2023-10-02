@@ -9,5 +9,6 @@ public class Foreach {
 		for(double valores: valor) {
 			System.out.println(valores);
 		}
+		
 	}
 }
